@@ -15,7 +15,7 @@
 - 🌱 Currently learning **Java, Spring Boot, and Distributed Systems**
 - 🏆 Looking for new challenges in **Software Development & AI Research**
 
-📄 **[My Resume](https://qzeng77.github.io/resume.pdf)**
+📄 **[My Resume](https://qzeng77.github.io/resume_qiwen_zeng.pdf)**
 
 ---
 
