@@ -17,6 +17,10 @@
 - 🌱 Currently learning **Java, Spring Boot, and Distributed Systems**
 - 🏆 Looking for new challenges in **Software Development & AI Full Stack Development**
 
+### 🚀 **Open to Work!**
+🎯 I'm currently looking for **Software Engineering / Machine Learning roles**.  
+💡 If you're hiring or have interesting opportunities, feel free to reach out! 
+
 #### 📄 **[My Resume](https://qzeng77.github.io/resume_qiwen_zeng.pdf)**
 
 ---
@@ -68,6 +72,28 @@
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 💼 **Experience**
+
+### **ML Research Contributor** *(2025 - Present)*
+🔬 Conducting research in **quantitative finance & stock prediction** using ML models.  
+- Developed **LSTM-based predictive models** for stock trend forecasting 📈  
+- Designed **data pipelines for feature engineering and time-series analysis**  
+- Experimented with **HMM (Hidden Markov Models) and deep learning models**  
+
+### **Software Test Engineer Intern @ AG Mednet** *(2023)*
+🛠 **Automated testing & software quality assurance**  
+- Developed **Selenium & Cucumber test scripts** to automate regression testing  
+- Reduced **manual QA effort by 40%** with test automation frameworks  
+- Integrated **Jenkins CI/CD pipelines** for continuous testing  
+
+### **Software Engineer Intern @ IBM** *(2020 - 2022)*
+💻 Worked on **full-stack development & data engineering projects**  
+- Built a **warehouse inventory system** using **Spring Boot + Vue.js**  
+- Improved **API response time by 30%** via Redis caching & query optimization  
+- Worked on **FAW-Volkswagen data analysis**, improving **recommendation accuracy** by 20%  
 
 ---
 
