@@ -9,13 +9,12 @@
 ---
 
 ### 🚀 **About Me**
-- 💻 Software Engineer | Machine Learning Enthusiast
+- 💻 Software Engineer | AI Enthusiast
 - 🎓 M.S. in Computer Science @ Tufts University
 - 🔍 Passionate about **AI, ML, Finance, and Full-Stack Development**
 - 🌱 Currently learning **Java, Spring Boot, and Distributed Systems**
-- 🏆 Looking for new challenges in **Software Development & AI Research**
+- 🏆 Looking for new challenges in **Software Development & AI Full Stack Engineering**
 
-📄 **[My Resume]([https://qzeng77.github.io/resume_qiwen_zeng.pdf](https://github.com/qzeng77/qzeng77.github.io/blob/main/resume_qiwen_zeng%20.pdf))**
 
 ---
 
@@ -33,12 +32,12 @@
 
 ### 🔥 **Projects**
 🚀 **[Shop-Sphere](https://github.com/qzeng77/shop-sphere)**  
-🛒 A **full-stack e-commerce platform** built with **Java & Spring Boot**  
+🛒 A **full-stack e-commerce mircoservices platform** built with **Java & Spring Boot & Spring Cloud**  
 - Implemented **RESTful APIs**, authentication, and role-based access control
 - Optimized database queries using **MySQL indexing**  
 - Integrated **payment gateway & order tracking system**
 
-📊 **[Quant Trading](https://github.com/qzeng77/quant_trading)**  
+📊 **[Quant Trading]**  
 📈 A **machine learning-based financial prediction system**  
 - Built **LSTM models** for stock trend analysis  
 - Used **historical data** to optimize trading strategies  
