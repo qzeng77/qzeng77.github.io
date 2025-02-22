@@ -11,7 +11,7 @@
 ---
 
 ### 🚀 **About Me**
-- 💻 Software Engineer | 🌟 AI Enthusiast
+💻 Software Engineer | 🌟 AI Enthusiast
 - 🎓 M.S. in Computer Science @ Tufts University
 - 🔍 Passionate about **AI, ML, Finance, and Full-Stack Development**
 - 🌱 Currently learning **Java, Spring Boot, and Distributed Systems**
